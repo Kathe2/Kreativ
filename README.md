@@ -20,6 +20,6 @@ Durante o desenvolvimento deste projeto, foram enfrentados desafios como:
 - Hospedar o projeto no Vercel para permitir que os visitantes acessem e utilizem a tela de cadastro.
 
 ## Preview
-<img src="https://github.com/Kathe2/Kreativ/assets/103085314/6f526035-b0c1-4a8a-878f-6e4645684d5f" width="1000" height="700">
+<img src="https://github.com/Kathe2/Kreativ/assets/103085314/0e025348-1aad-461d-822d-35c6401b2e8c" width="900" height="700">
 
 Sinta-se à vontade para explorar a tela de cadastro e entrar em contato comigo! Bem-vindo ao projeto "Kreativ".
